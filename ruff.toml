@@ -1,0 +1,8 @@
+line-length = 100
+
+[lint]
+# isort
+select = ["I"]
+
+[format]
+indent-style = "tab"
